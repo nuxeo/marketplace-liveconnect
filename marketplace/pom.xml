@@ -20,7 +20,15 @@
     </dependency>
     <dependency>
       <groupId>org.nuxeo.ecm.liveconnect</groupId>
+      <artifactId>nuxeo-liveconnect-core</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.nuxeo.ecm.liveconnect</groupId>
       <artifactId>nuxeo-liveconnect-google-drive</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.nuxeo.ecm.liveconnect</groupId>
+      <artifactId>nuxeo-liveconnect-dropbox</artifactId>
     </dependency>
   </dependencies>
 
