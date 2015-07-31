@@ -28,6 +28,7 @@
         <groupId>org.nuxeo.marketplace.liveconnect</groupId>
         <artifactId>marketplace-liveconnect</artifactId>
         <version>${marketplace.liveconnect.version}</version>
+        <type>zip</type>
       </dependency>
       <dependency>
         <groupId>org.nuxeo.ecm.liveconnect</groupId>
