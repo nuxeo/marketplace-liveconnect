@@ -14,6 +14,7 @@
 
   <properties>
     <nuxeo.distribution.version>7.4-SNAPSHOT</nuxeo.distribution.version>
+    <marketplace.liveconnect.version>1.0.1-SNAPSHOT</marketplace.liveconnect.version>
   </properties>
 
   <modules>
@@ -26,7 +27,7 @@
       <dependency>
         <groupId>org.nuxeo.marketplace.liveconnect</groupId>
         <artifactId>marketplace-liveconnect</artifactId>
-        <version>${nuxeo.distribution.version}</version>
+        <version>${marketplace.liveconnect.version}</version>
       </dependency>
       <dependency>
         <groupId>org.nuxeo.ecm.liveconnect</groupId>
