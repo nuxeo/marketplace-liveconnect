@@ -10,10 +10,10 @@
   <artifactId>parent</artifactId>
   <packaging>pom</packaging>
   <name>Nuxeo Live Connect Marketplace package</name>
-  <version>1.1.1-SNAPSHOT</version>
+  <version>1.1.2-SNAPSHOT</version>
 
   <properties>
-    <marketplace.liveconnect.version>1.1.1-SNAPSHOT</marketplace.liveconnect.version>
+    <marketplace.liveconnect.version>1.1.2-SNAPSHOT</marketplace.liveconnect.version>
   </properties>
 
   <modules>
