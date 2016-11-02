@@ -30,19 +30,59 @@
     </dependency>
     <dependency>
       <groupId>org.nuxeo.ecm.liveconnect</groupId>
-      <artifactId>nuxeo-liveconnect-google-drive</artifactId>
+      <artifactId>nuxeo-liveconnect-jsf</artifactId>
     </dependency>
     <dependency>
       <groupId>org.nuxeo.ecm.liveconnect</groupId>
-      <artifactId>nuxeo-liveconnect-dropbox</artifactId>
+      <artifactId>nuxeo-liveconnect-web-ui</artifactId>
     </dependency>
     <dependency>
       <groupId>org.nuxeo.ecm.liveconnect</groupId>
-      <artifactId>nuxeo-liveconnect-box</artifactId>
+      <artifactId>nuxeo-liveconnect-google-drive-core</artifactId>
     </dependency>
     <dependency>
       <groupId>org.nuxeo.ecm.liveconnect</groupId>
-      <artifactId>nuxeo-liveconnect-onedrive</artifactId>
+      <artifactId>nuxeo-liveconnect-google-drive-jsf</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.nuxeo.ecm.liveconnect</groupId>
+      <artifactId>nuxeo-liveconnect-google-drive-web-ui</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.nuxeo.ecm.liveconnect</groupId>
+      <artifactId>nuxeo-liveconnect-dropbox-core</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.nuxeo.ecm.liveconnect</groupId>
+      <artifactId>nuxeo-liveconnect-dropbox-jsf</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.nuxeo.ecm.liveconnect</groupId>
+      <artifactId>nuxeo-liveconnect-dropbox-web-ui</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.nuxeo.ecm.liveconnect</groupId>
+      <artifactId>nuxeo-liveconnect-box-core</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.nuxeo.ecm.liveconnect</groupId>
+      <artifactId>nuxeo-liveconnect-box-jsf</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.nuxeo.ecm.liveconnect</groupId>
+      <artifactId>nuxeo-liveconnect-box-web-ui</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.nuxeo.ecm.liveconnect</groupId>
+      <artifactId>nuxeo-liveconnect-onedrive-core</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.nuxeo.ecm.liveconnect</groupId>
+      <artifactId>nuxeo-liveconnect-onedrive-jsf</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.nuxeo.ecm.liveconnect</groupId>
+      <artifactId>nuxeo-liveconnect-onedrive-web-ui</artifactId>
     </dependency>
   </dependencies>
 
