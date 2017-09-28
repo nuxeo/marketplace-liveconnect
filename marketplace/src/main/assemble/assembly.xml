@@ -46,6 +46,7 @@
           <artifact scope="test" />
           <artifact scope="provided" />
           <artifact type="pom" />
+          <artifact artifactId="onedrive-java-client" />
         </excludes>
       </artifact:dependencies>
     </copy>
@@ -55,6 +56,7 @@
         <includes>
           <artifact groupId="!org.nuxeo*" />
           <artifact groupId="org.nuxeo.lib*" />
+          <artifact artifactId="onedrive-java-client" />
         </includes>
         <excludes>
           <artifact scope="test" />
