@@ -36,26 +36,6 @@
       <artifactId>nuxeo-liveconnect-jsf-dependencies</artifactId>
       <type>pom</type>
     </dependency>
-    <dependency>
-      <groupId>org.nuxeo.ecm.liveconnect</groupId>
-      <artifactId>nuxeo-liveconnect-web-ui</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>org.nuxeo.ecm.liveconnect</groupId>
-      <artifactId>nuxeo-liveconnect-box-web-ui</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>org.nuxeo.ecm.liveconnect</groupId>
-      <artifactId>nuxeo-liveconnect-dropbox-web-ui</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>org.nuxeo.ecm.liveconnect</groupId>
-      <artifactId>nuxeo-liveconnect-google-drive-web-ui</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>org.nuxeo.ecm.liveconnect</groupId>
-      <artifactId>nuxeo-liveconnect-onedrive-web-ui</artifactId>
-    </dependency>
 
   </dependencies>
 
